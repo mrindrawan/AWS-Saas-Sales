@@ -44,3 +44,7 @@ Proyek analisis data ini disusun dengan tujuan untuk mengeksplorasi data transak
 - Tinjau ulang strategi produk di wilayah rugi
 - Tingkatkan pendekatan pada industri potensial
 - Audit data untuk mendukung akurasi analisis
+
+---
+
+Explore the interactive Tableau dashboard [here](https://public.tableau.com/app/profile/rizky.muhammad.indrawan/viz/AWSSaas-SalesDashboard/Dashboard1).
